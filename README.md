@@ -1,6 +1,6 @@
 This repository contains the Python notebooks accompanying the paper
-"How Dataset Design Shapes Machine Learning Retrieval of Exoplanetary Atmospheres:
-A Survey and Benchmark".
+*How Dataset Design Shapes Machine Learning Retrieval of Exoplanetary Atmospheres:
+A Survey and Benchmark*.
 
 The datasets analysed in this work were originally published in previous studies
 and are not included here. They can be accessed via their original publications:
